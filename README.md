@@ -6,7 +6,7 @@ Hi, I'm Mostefa. Software Engineer.
 
 - 🌱 I’m currently attending to Data Science & IA Bootcamp
 - 👯 I’m looking to collaborate on web projects 
-- 💬 Ask me about: Software design, Web best practise, PHP, Symfony, Python.
+- 💬 Ask me about: Software design, Web best practise, Machine Learning, PHP, Symfony, Python.
 
 | Rank | Languages |
 |-----:|-----------|
